@@ -1,3 +1,5 @@
+INSTALAR VS COMMUNITI 2022
+
 --list-sdks / verifica a versão do sdk tem que estar pelo menos na 7.0.201
 https://dotnet.microsoft.com/en-us/download / para atualizar caso perecise
 
