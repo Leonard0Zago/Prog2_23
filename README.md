@@ -1,7 +1,10 @@
-INSTALAR VS COMMUNITI 2022
-
---list-sdks / verifica a versão do sdk tem que estar pelo menos na 7.0.201
-https://dotnet.microsoft.com/en-us/download / para atualizar caso perecise
+/Subir para o git 
+/git status 
+/git add . 
+/git status 
+/git commit -m "" 
+/git remote -v 
+/git push origin main
 
 SDK: Sistem Development Kit
 ASP: Active Server Pages
