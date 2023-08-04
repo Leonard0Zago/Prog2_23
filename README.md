@@ -41,5 +41,5 @@ Aula 2
 / POO: É flexível, Natural, bem elaborado e testável. Focada em objetos que interagem uns com os outros
 / Quatro principios da POO 1 Identificar as classes, 2 Separar as responsabilidades, 3 Estabelecer relacionamentos e 4 Pensar no reaproveitamento
 / ORM: Object Relational Mapping
-/ Abre Ferramentas, gerenciador pacotes NuGet e instalar o "microsoft.entityframeworkcore.design" e o "microsoft.entityframeworkcore.sqlserver"
+/ Abre Ferramentas, gerenciador pacotes NuGet e instalar o "microsoft.entityframeworkcore.design", "Microsoft.EntityFrameworkCore" e o "microsoft.entityframeworkcore.sqlserver"
 / Ctrl + Shift + B para compilar as atualizações e verificar se tem falhas
