@@ -43,3 +43,24 @@ Aula 2
 / ORM: Object Relational Mapping
 / Abre Ferramentas, gerenciador pacotes NuGet e instalar o "microsoft.entityframeworkcore.design", "Microsoft.EntityFrameworkCore" e o "microsoft.entityframeworkcore.sqlserver"
 / Ctrl + Shift + B para compilar as atualizações e verificar se tem falhas
+
+
+_________________________________________
+Aula 3
+
+/ registro.br - criar endereço web
+/ 
+/ Considerar o efeito tempo dar a possibilidade de alterar os dados de usuários
+/ O tempo é a quarta dimensão a ser considerada
+/ 4 Pilares POO
+/ Abstração: depende dos requisitos da aplicação, é oprocesso de definir classes simplificando a realidade focando no que é relevante no escopo da aplicação
+/ Encapsulamento: para "esconder" os dados e detalhes da implementação de classe, para que outros métodos não dse preocupem com os detalhes da implementação, é disponibilizada para o resto do sistema através de métodos de gravação e leitura Getters e Setters
+/ 
+
+/ Assistir - H.E.R
+/ 
+
+/ Atividade: Publicar a atividede de classe da veterinária que está nos slides
+/ 
+/ 
+/ 
