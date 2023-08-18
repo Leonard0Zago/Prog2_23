@@ -79,7 +79,7 @@ Aula 4
 / Para rodar pela primeira vez tem que estar no diretório PSIUWeb e usar o comando: dotnet ef migrations add Initial
 / Caso de erro tem que instalar o dotnet: dotnet ef migrations add Initial
 / 
-/ 
+/ Migrations: cria a tabela a partir da entidade
 / 
 / 
 / 
