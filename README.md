@@ -81,7 +81,7 @@ Aula 4
 / 
 / Migrations: cria a tabela a partir da entidade
 / 
-/ 
+/ pro asp net core capitulo 3
 / 
 / 
 / 
