@@ -76,8 +76,8 @@ Aula 4
 / ORM: Object Relational Mapping
 / JSOM: JavaScript Object Notation
 / 
-/ 
-/ 
+/ Para rodar pela primeira vez tem que estar no diretório PSIUWeb e usar o comando: dotnet ef migrations add Initial
+/ Caso de erro tem que instalar o dotnet: dotnet ef migrations add Initial
 / 
 / 
 / 
