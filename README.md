@@ -50,7 +50,7 @@ Aula 3
 
 / registro.br - criar endereço web
 / 
-/ Considerar o efeito tempo dar a possibilidade de alterar os dados de usuários
+/ Considerar o efeito tempo, dar a possibilidade de alterar os dados de usuários
 / O tempo é a quarta dimensão a ser considerada
 / 4 Pilares POO
 / Abstração: depende dos requisitos da aplicação, é oprocesso de definir classes simplificando a realidade focando no que é relevante no escopo da aplicação
@@ -61,6 +61,66 @@ Aula 3
 / 
 
 / Atividade: Publicar a atividede de classe da veterinária que está nos slides
+
+___________________________________________
+Aula 4
+
+/ Assistir: Black mirror
+
+/ POO
+/ Identificação classes: verbo se refere ao método e se refere a entidade 
+/ Separar as responsabilidades: cada classe tem seus atributos e ações
+/ Estabelecer relacionamentos: 
+/ Reaproveitar código: 
+
+/ ORM: Object Relational Mapping
+/ JSOM: JavaScript Object Notation
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
 / 
 / 
 / 
