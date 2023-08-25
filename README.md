@@ -100,6 +100,12 @@ Aula 5
 / 6 - Crie a Migration Initial e atualize o banco com ef
 / 
 / 
+
+
+___________________________________________
+Aula 6
+
+
 / 
 / 
 / 
