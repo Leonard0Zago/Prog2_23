@@ -85,13 +85,19 @@ Aula 4
 / 
 / 
 / 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
+
+
+___________________________________________
+Aula 5
+
+
+/ Atividade de fixação:
+/ 1 - Crie um projeto ASP.NET MVC (template) com o nome PjLeonardoPerosaZago
+/ 2 - Configure no projeto os NuGet Packages do EF Core
+/ 3 - Especifique uma classe Model para Psicologo e defina um DBContext herdando do Identity 
+/ 4 - Configure no APPSetings.json uma string de conexão com o SQL server
+/ 5 - Defina os params de fonfig dos serviços do app no program.cs
+/ 6 - Crie a Migration Initial e atualize o banco com ef
 / 
 / 
 / 
