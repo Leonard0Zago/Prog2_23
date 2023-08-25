@@ -1,9 +1,12 @@
+Como criar uma aplicação web .NET
+
 Abre o Visual studio e cria um novo projeto do tipo ASP.NET MVC na versão 6.0 do .NET.
 Abre o gerenciador de pacote NuGet e instala os seguintes pacotes:
-Microsoft.AspNetCore.Identity.EntityFrameworkCore
-Microsoft.EntityFrameworkCore
-Microsoft.EntityFrameworkCore.Design
-Microsoft.EntityFrameworkCore.SqlServer
+  Microsoft.AspNetCore.Identity.EntityFrameworkCore
+  Microsoft.EntityFrameworkCore
+  Microsoft.EntityFrameworkCore.Design
+  Microsoft.EntityFrameworkCore.SqlServer
+
 Todos na mesma versão do dotnet instalado. Para testar se todas as instalações foram bem sucedidas Ctrl + Shift + B.
 Na pasta Models crie uma nova classe AppUser para definir os parâmetros para a criação de um novo usuário. 
 Também crie Psico para definir os parâmetros dessa classe.
