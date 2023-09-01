@@ -33,7 +33,7 @@ cd PartyInvites /
 dotnet watch run - para executar e abrir a janela no navegador / 
 
 ______________________________________________
-Aula 2
+Aula 2- 03/08/23
 
 / Visual studio tem que ter 'ASP.NET e desenvolvimento Web', 'processamento e armazenamentos de dados' instalados
 / 
@@ -46,7 +46,7 @@ Aula 2
 
 
 _________________________________________
-Aula 3
+Aula 3- 10/08/23
 
 / registro.br - criar endereço web
 / 
@@ -63,7 +63,7 @@ Aula 3
 / Atividade: Publicar a atividede de classe da veterinária que está nos slides
 
 ___________________________________________
-Aula 4
+Aula 4 - 17/08/23
 
 / Assistir: Black mirror
 
@@ -88,7 +88,7 @@ Aula 4
 
 
 ___________________________________________
-Aula 5
+Aula 5 - 24/08/23
 
 
 / Atividade de fixação:
@@ -103,9 +103,96 @@ Aula 5
 
 
 ___________________________________________
-Aula 6
+Aula 6 - 31/08/23
 
 
+/ Ctrl + Shift + B para testar se está compilanfdo certo
+/ CRUD: Create Read Update Delete.
+/ Persistir é armazenar no BD um objeto
+/ Tela do usuário: View, UI - User Interface, GUI - Guide Uder Interface
+/ Interface do usuário: Contrato da classe, especifica um método, não cria apenas vai servir como "adaptador"
+/ Injeção de dependencia: 
+/ DDL: Data definition
+/ LINQ: Language Integrated Query
+/ F5  para rodar
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
 / 
 / 
 / 

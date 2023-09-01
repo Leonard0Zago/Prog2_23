@@ -31,8 +31,8 @@ namespace PSIUWeb.Models
         public Race Race { get; set; }
 
         [ForeignKey("User")]
-        public string UserId { get; set; }
+        public string? UserId { get; set; }
         //Atributo de navegação ou navigation property
-        public AppUser User { get; set; }
+        public AppUser? User { get; set; }
     }
 }

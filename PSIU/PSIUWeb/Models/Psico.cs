@@ -8,16 +8,16 @@ namespace PSIUWeb.Models
     {
         [Key]
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string? Name { get; set; }
         [Required(ErrorMessage = "Nome requerido.")]
         [Display(Name = "Nome")]
-        public string CRP { get; set; }
+        public string? CRP { get; set; }
         [Required(ErrorMessage = "CRP requerido.")]
         [Display(Name = "CRP")]
         public bool Liberado { get; set; }
 
         [ForeignKey("User")]
-        public string UserId { get; set; }
-        public AppUser User { get; set; }
+        public string? UserId { get; set; }
+        public AppUser? User { get; set; }
     }
 }
