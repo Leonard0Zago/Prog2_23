@@ -13,5 +13,5 @@ Também crie Psico para definir os parâmetros dessa classe.
 Crie uma pasta Data e nela crie uma classe AppDbContyext, essa classe serve para definir o que será usado no DB e quais tabelas deverão ser criadas.
 No appsetting.json criar um usuário inicial para conseguir acessar o sistema pela primeira vez como admin.
 No program.cs criar o builder da tabela do DB.
-Para criar a Migration tem que abrir to terminal do APP e usar o comando 'dotnet tool install --global dotnet-ef' para a tualizar e o 'dotnet ef migrations add Initial' para criar um codelo do DB.
+Para criar a Migration tem que abrir to terminal do APP e usar o comando 'dotnet tool install --global dotnet-ef' para atualizar e o 'dotnet ef migrations add Initial' para criar um codelo do DB.
 Para atualizar o DB usar o comando 'dotnet ef database update'.
