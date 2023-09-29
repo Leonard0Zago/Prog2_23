@@ -118,22 +118,31 @@ Aula 6 - 31/08/23
 / 
 / 
 / 
+
+___________________________________________
+Aula 7 - 21/09/23
+
+
+/ Interface define um adaptador para definir os métodos como buscar paciente por Id... 
+/ Método construtor tem o mesmo nome da classe
+/ - Trabalhado no Index do Pacient e montado a tela de exibição da lista de pacientes
 / 
 / 
 / 
+___________________________________________
+Aula 8 - 28/09/23
+
+
+/ Fazer o mesmo que foi feito para paciente para o Psico
+/ Comando para DEBUG
+/ F9 inicia o DEBUG
+/ F10 passa linha
+/ F11 vai para outra função
+/ F5 vai até o próximo breackpoint
+/ Da para arrastar a setinha de posição com o mouse
+/ Razor é a engine para injetar código C# no Html
 / 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
+/ Atividade é fazer Controller, Insert, Index, Edit e Delete para Psico
 / 
 / 
 / 
