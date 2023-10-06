@@ -24,7 +24,7 @@
 <hr />
 <div class="container">
     <div class="row">
-        <form asp-action="Insert" style="width:100%;">
+        <form asp-action="Edit" style="width:100%;">
             <div asp-validation-summary="ModelOnly"></div>
             <input type="hidden" asp-for="Id" />
 
@@ -44,6 +44,16 @@
                         <label asp-for="CRP" class="control-label"></label>
                         <input asp-for="CRP" class="form-control" placeholder="Cód. CRP" />
                         <span asp-validation-for="CRP" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label asp-for="Liberado" class="control-label"></label>
+                        <input asp-for="Liberado" class="checkbox" />
+                        <span asp-validation-for="Liberado"></span>
                     </div>
                 </div>
             </div>

@@ -41,21 +41,7 @@ namespace PSIUWeb.Data
                     }
 
                 );
-                if (!context.Psicos.Any())
-                {
-                    context.Psicos.AddRange(
-
-                        new Psico
-                        {
-                            Name = "Mauricio",
-                            CRP = "123456"
-                        }
-                    );
-
-                    context.SaveChanges();
-                }
             }
-
         }
     }
 }

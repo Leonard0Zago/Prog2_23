@@ -145,14 +145,18 @@ Aula 8 - 28/09/23
 / Atividade é fazer Controller, Insert, Index, Edit e Delete para Psico
 / 
 / 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
-/ 
+___________________________________________
+Aula 9 - 05/10/23
+
+
+/ Classe POCO Plain Old C# Object
+/ Método é um verbo
+/ Agregação quando entidade tem relacionamento com outra mas não depende para existir
+/ Sobrecarga - Overloading é usado para descrever métodos com o mesmo nome e diferentes parâmetros
+/ Termo: CONTRACT - especificações dos modificadores de acesso definem o contrato da classe
+/ Contrutores tem o mesmo nome da classe, um construtor sem parâmetros é definido como contrutor padrão (default constructor)
+/ Dá pra fazer overloading em construtores utilizando parâmetros diferentes
+/ Assinatura do método 
 / 
 / 
 / 
