@@ -159,12 +159,16 @@ Aula 9 - 05/10/23
 / Assinatura do método 
 / 
 / 
+___________________________________________
+Aula 10 - 19/10/23
+
+
+/ Relacionamento entre as entidades Agregação(adiciona mas não é obrigatória. Ex: óculos) e Compisição(é necessário para existência. Ex: coração)
 / 
-/ 
-/ 
-/ 
-/ 
-/ 
+/ Tirar uma cópia da branch para ramificar o repositório: git checkout -b nome_da_branch
+/ Transitar entre as branchs: git checkout nome_da_branch
+/ Criar uma branch da branch principal
+(A palavra "feature" é um diretório que vai ser criado para essas branchs): git checkout -b feature/Aula20231019
 / 
 / 
 / 
