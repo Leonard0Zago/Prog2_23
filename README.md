@@ -178,7 +178,7 @@ Aula 11 - 08/11/23
 / Feito view do midia
 / Alta coesão e baixo acoplamento - Classe faz o que ela deve fazer e baixo acoplamento é utilizar interfaces para tornar o código mutável
 / 
-/ 
+/ Fazer conteudo midia
 / 
 / 
 / 
