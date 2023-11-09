@@ -44,7 +44,7 @@ namespace PSIUWeb.Data.EF
             Midia? m =
                 context
                     .Midias?
-                    .Where(m => m.MidiaID == id)
+                    .Where(m => m.Id == id)
                     .FirstOrDefault(); ;
 
             return m;

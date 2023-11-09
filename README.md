@@ -171,8 +171,12 @@ Aula 10 - 19/10/23
 (A palavra "feature" é um diretório que vai ser criado para essas branchs): git checkout -b feature/Aula20231019
 / 
 / 
-/ 
-/ 
+___________________________________________
+Aula 11 - 08/11/23
+
+
+/ Feito view do midia
+/ Alta coesão e baixo acoplamento - Classe faz o que ela deve fazer e baixo acoplamento é utilizar interfaces para tornar o código mutável
 / 
 / 
 / 
