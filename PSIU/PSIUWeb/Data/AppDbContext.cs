@@ -19,5 +19,6 @@ namespace PSIUWeb.Data
         public DbSet<Content>? Contents { get; set; }
         public DbSet<ContentCategory>? ContentCategories { get; set; }
         public DbSet<Midia>? Midias { get; set; }
+        public DbSet<ContentMidia>? ContentMidias { get; set; }
     }
 }

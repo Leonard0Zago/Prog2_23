@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Content>
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">
+                            Listagem de Contents
+                        </h3>
+                    </div>
+                    <div class="card-body">
+
+                        <a asp-controller="Content" asp-action="Insert">
+                            Incluir novo
+                        </a>
+
+                        <table class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>@Html.DisplayNameFor(model => model.Id)</th>
+                                    <th>@Html.DisplayNameFor(model => model.Title)</th>
+                                    <th>@Html.DisplayNameFor(model => model.Resume)</th>
+                                    <th>@Html.DisplayNameFor(model => model.HtmlContent)</th>
+                                    <th>Ações</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach(var c in Model)
+                                {
+                                    <tr>
+                                        <td>@c.Id</td>
+                                        <td>@c.Title</td>
+                                        <td>@c.Resume</td>
+                                        <td>@c.HtmlContent</td>
+                                        <td>
+                                            <div class="row">
+                                                <div class="col-6">
+                                                    <a asp-controller="Content"
+                                                       asp-action="Edit"
+                                                       asp-route-id="@c.Id">
+                                                        Editar
+                                                    </a>
+                                                </div>
+                                                <div class="col-6">
+                                                    <a asp-controller="Content"
+                                                       asp-action="Delete"
+                                                       asp-route-id="@c.Id">
+                                                        Excluir
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
